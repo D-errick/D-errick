@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**D-errick/D-errick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Derrick Simiyu, a passionate and detail-oriented data enthusiast with a love for turning complex datasets into meaningful insights. I specialize in:
 
-Here are some ideas to get you started:
+- 🧹 Data Cleaning | 🧰 Data Wrangling | ✅ Data Validation | Data Visualization  
+- 📊 Dashboarding & Reporting (Looker Studio, Power BI, Tableau)  
+- 📁 Data Documentation & Quality Assurance
+- ✨ Skills: Python, R, Excel, SQL, Pandas, Numpy, MySQL, PostgreSQL, BigQuery, KPI tracking,
+data integrity, Databricks, AWS  
+- 🛠️ Automating repetitive data tasks with Python & SQL  
+- 📦 Currently in Data Science, transitioning to **Data Engineering** for **Analytical Engineering** roles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: derricksimiyu2019@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/derrick-simiyu30](https://linkedin.com/in/derrick-simiyu30)
