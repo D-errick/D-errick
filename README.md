@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Derrick Simiyu, a passionate and detail-oriented data enthusiast with a love for turning complex datasets into meaningful insights. I specialize in:
+I'm Derrick Simiyu, a passionate and detail-oriented Data Analyst with a love for turning complex datasets into meaningful insights. I specialize in:
 
 - 🧹 Data Cleaning | 🧰 Data Wrangling | ✅ Data Validation | Data Visualization  
 - 📊 Dashboarding & Reporting (Looker Studio, Power BI, Tableau)  
